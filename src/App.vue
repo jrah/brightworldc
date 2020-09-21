@@ -1,19 +1,56 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <vue-blob-json-csv
+      tag-name="div"
+      file-type="csv"
+      file-name="output"
+      title="Download JSON"
+      :data="merge(oldArr, newArr)"
+      confirm="Do you want to download it?"
+    />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import oldArr from "./input/old.json";
+import newArr from "./input/new.json";
 
 export default {
-  name: 'App',
+  name: "App",
+  data() {
+    return {
+      obj: {},
+      oldArr: oldArr,
+      newArr: newArr,
+    };
+  },
   components: {
-    HelloWorld
-  }
-}
+    // HelloWorld,
+    // VueBlobJsonCsv,
+  },
+  methods: {
+    simpleMerge(oldArr, newArr) {
+      const AandB = [...oldArr, ...newArr];
+      console.log(AandB); // [ 44, 33, 22, 33, 22, 11 ]
+      const distinctValuesInAandBSet = new Set(AandB);
+      console.log(distinctValuesInAandBSet); // Set { 44, 33, 22, 11 }
+      const setToArray = [...distinctValuesInAandBSet];
+      return setToArray;
+    },
+    merge(oldArr, newArr) {
+      const mergedArr = [...oldArr, ...newArr];
+      let set = new Set();
+      let unionArr = mergedArr.filter((item) => {
+        if (!set.has(item.uid)) {
+          set.add(item.uid);
+          return true;
+        }
+        return false;
+      }, set);
+      return unionArr;
+    },
+  },
+};
 </script>
 
 <style>
