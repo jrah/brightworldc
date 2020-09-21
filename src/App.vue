@@ -1,5 +1,15 @@
 <template>
   <div id="app">
+    <span class="convert">
+      <vue-blob-json-csv
+        tag-name="div"
+        file-type="json"
+        file-name="output"
+        title="Download JSON"
+        :data="merge(oldArr, newArr)"
+        confirm="Do you want to download it?"
+      />
+    </span>
     <pre>
       oldArray: {{oldArr.length}}
       newArr (modified files): {{newArr.length}}
@@ -7,14 +17,6 @@
       Difference {{finalOutput.length - oldArr.length}}
 
     </pre>
-    <vue-blob-json-csv
-      tag-name="div"
-      file-type="json"
-      file-name="output"
-      title="Download JSON"
-      :data="merge(oldArr, newArr)"
-      confirm="Do you want to download it?"
-    />
     <pre v-for="(item, i) in finalOutput" :key="i">
       {{item.type}}
       {{item.uid}}
@@ -67,3 +69,34 @@ export default {
   },
 };
 </script>
+
+<style lang="css">
+.convert {
+background-color: #fff;
+font-family: Arial, Helvetica, sans-serif;
+    border-color: #dbdbdb;
+    border-width: 1px;
+    color: #363636;
+    cursor: pointer;
+    justify-content: center;
+    padding: calc(.5em - 1px) 1em;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #7957d5;
+    border-color: transparent;
+    color: #fff;
+    -webkit-appearance: none;
+    align-items: center;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: none;
+    display: inline-flex;
+    font-size: 1rem;
+    height: 2.5em;
+    justify-content: flex-start;
+    line-height: 1.5;
+    padding: calc(.5em - 1px) calc(.75em - 1px);
+    position: relative;
+    vertical-align: top;
+}
+</style>
