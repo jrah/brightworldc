@@ -19,16 +19,24 @@
       simpleMerge: {{simpleMerge(oldArr, newArr).length}}
       Merge: {{merge(oldArr, newArr).length}}
       Compare:{{ compareArray(merge(oldArr, newArr), oldArr ).length}}
-
-    <pre style="color: red;" v-for="(item, j) in compareArray(merge(oldArr, newArr), oldArr )" :key="j">
+</pre>
+    <pre
+      style="color: red;"
+      v-for="(item, j) in compareArray(merge(oldArr, newArr), oldArr )"
+      :key="j"
+    >
       {{item.type}}
       {{item.uid}}
       {{item.meta_title}}
     </pre>
-            
-            
+
+    <pre style="color: blue;" v-for="(item, j) in newArr" :key="j">
+      {{item.type}}
+      {{item.uid}}
+      {{item.meta_title}}
     </pre>
-    <pre v-for="(item, i) in simpleMerge(oldArr, newArr)" :key="i">
+
+    <pre v-for="(item, i) in merge(oldArr, newArr)" :key="i">
       {{item.type}}
       {{item.uid}}
       {{item.meta_title}}
@@ -77,8 +85,26 @@ export default {
       return unionArr;
     },
     compareArray(arr1, arr2) {
-      const difference = arr1.filter(item1 => !arr2.some(item2 => (item2.meta_title === item1.meta_title)))
+      const difference = arr1.filter(
+        (item1) => !arr2.some((item2) => item2.meta_title === item1.meta_title)
+      );
       return difference;
+    },
+    mapArr(arr) {
+      return arr.map((item) => {
+        return {
+          ...item,
+          header_title: [
+            {
+              type: "heading1",
+              content: {
+                text: item.h1,
+                spans: [],
+              },
+            },
+          ],
+        };
+      });
     },
   },
 };
