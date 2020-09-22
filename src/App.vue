@@ -17,19 +17,9 @@
       Difference {{finalOutput.length - oldArr.length}}
       Difference {{oldArr.length - newArr.length}}
 
-      simpleMerge: {{simpleMerge(oldArr, newArr).length}}
-      Merge: {{merge(oldArr, newArr).length}}
-      Compare:{{ compareArray(merge(oldArr, newArr), oldArr ).length}}
+      s
 </pre>
-  <pre
-      style="color: red;"
-      v-for="(item, j) in compareArray(merge(oldArr, newArr), oldArr )"
-      :key="j"
-    >
-      {{item.type}}
-      {{item.uid}}
-      {{item.meta_title}}
-    </pre>
+  
   <!-- 
     <pre style="color: blue;" v-for="(item, j) in newArr" :key="j">
       {{item.type}}
@@ -37,12 +27,7 @@
       {{item.meta_title}}
     </pre> -->
 
-    <pre v-for="(item, i) in merge(oldArr, newArr)" :key="i">
-      {{item.type}}
-      {{item.uid}}
-      {{item.meta_title}}
-      {{item.header_title}}
-    </pre>
+    
   </div>
 </template>
 
@@ -50,6 +35,7 @@
 import finalOutput from "./output.json";
 import oldArr from "./input/old.json";
 import newArr from "./input/new.json";
+import exclusions from "./input/exclusions.json";
 
 export default {
   name: "App",
@@ -75,16 +61,33 @@ export default {
       return setToArray;
     },
     merge(oldArr, newArr) {
-      const mergedArr = [...newArr, ...oldArr];
-      let set = new Set();
-      let unionArr = mergedArr.filter((item) => {
+      // const mergedArr = [...newArr, ...oldArr];
+      // let set = new Set();
+      /*let unionArr = mergedArr.filter(i => i.lang !== 'zh-cn').filter((item) => {
         if (!set.has(item.uid)) {
           set.add(item.uid);
           return true;
         }
         return false;
-      }, set);
-      return unionArr;
+      }, set);*/
+      const uidMapping = {}
+      oldArr.filter(i => i.lang === 'en-gb').forEach(i => {
+        uidMapping[i.uid] = i
+      })
+      newArr.forEach(i => {
+        uidMapping[i.uid] = Object.assign(uidMapping[i.uid], i)
+      })
+      console.log('before',  uidMapping['benenden-school'].body.length, uidMapping['benenden-school'].body.map(i => i.key))
+
+      exclusions.forEach(i => {
+        const item = uidMapping[i]
+        item.body = item.body.filter(j => !j.key.startsWith('image_splash'))
+
+      })
+      console.log('after',  uidMapping['benenden-school'].body.length, uidMapping['benenden-school'].body.map(i => i.key))
+      //debugger //eslint-disable-line
+      
+      return oldArr;
     },
     compareArray(arr1, arr2) {
       const difference = arr1.filter(
@@ -109,6 +112,9 @@ export default {
       });
     },
   },
+  mounted() {
+    this.merge(this.oldArr, this.newArr)
+  }
 };
 </script>
 
