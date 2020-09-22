@@ -1,212 +1,72 @@
 [
-  {
-    "uid": "cranleigh-school"
-  },
-  {
-    "uid": "heathfield-school"
-  },
-  {
-    "uid": "port-regis-prep-school"
-  },
-  {
-    "uid": "stanborough-school"
-  },
-  {
-    "uid": "charterhouse"
-  },
-  {
-    "uid": "cothill-house-school"
-  },
-  {
-    "uid": "talbot-heath"
-  },
-  {
-    "uid": "wellesley-house-prep-school"
-  },
-  {
-    "uid": "aysgarth-school"
-  },
-  {
-    "uid": "warwick-school"
-  },
-  {
-    "uid": "st-johns-beaumont"
-  },
-  {
-    "uid": "wycombe-abbey-school"
-  },
-  {
-    "uid": "headington-school"
-  },
-  {
-    "uid": "kimbolton-school"
-  },
-  {
-    "uid": "packwood-haugh-school"
-  },
-  {
-    "uid": "abberley-hall-prep-school"
-  },
-  {
-    "uid": "tring-park-school-for-the-performing-arts"
-  },
-  {
-    "uid": "stoke-college"
-  },
-  {
-    "uid": "st-davids-college"
-  },
-  {
-    "uid": "tonbridge-school"
-  },
-  {
-    "uid": "pocklington-school"
-  },
-  {
-    "uid": "godstowe-preparatory-school"
-  },
-  {
-    "uid": "stowe-school"
-  },
-  {
-    "uid": "rugby-school"
-  },
-  {
-    "uid": "repton-school"
-  },
-  {
-    "uid": "wellington-college"
-  },
-  {
-    "uid": "sexeys-school"
-  },
-  {
-    "uid": "the-duke-of-yorks-royal-military-school"
-  },
-  {
-    "uid": "st-marys-school-ascot"
-  },
-  {
-    "uid": "st-edwards-school"
-  },
-  {
-    "uid": "polam-hall"
-  },
-  {
-    "uid": "uppingham-school"
-  },
-  {
-    "uid": "bilton-grange-preparatory-school"
-  },
-  {
-    "uid": "sevenoaks-school"
-  },
-  {
-    "uid": "royal-leamington-spa-college"
-  },
-  {
-    "uid": "downe-house"
-  },
-  {
-    "uid": "st-michaels-school-llanelli"
-  },
-  {
-    "uid": "sunningdale-school"
-  },
-  {
-    "uid": "st-catherines-school"
-  },
-  {
-    "uid": "ludgrove-school"
-  },
-  {
-    "uid": "purcell-school"
-  },
-  {
-    "uid": "the-blue-coat-prep-school"
-  },
-  {
-    "uid": "hockerill-anglo-european-college"
-  },
-  {
-    "uid": "the-royal-ballet-school"
-  },
-  {
-    "uid": "burford-school"
-  },
-  {
-    "uid": "maidwell-hall"
-  },
-  {
-    "uid": "dallam-school"
-  },
-  {
-    "uid": "the-park-school"
-  },
-  {
-    "uid": "wymondham-college"
-  },
-  {
-    "uid": "eton-college"
-  },
-  {
-    "uid": "malvern-college"
-  },
-  {
-    "uid": "old-buckenham-hall-school"
-  },
-  {
-    "uid": "papplewick-school"
-  },
-  {
-    "uid": "north-hill-house-school"
-  },
-  {
-    "uid": "summer-fields-school"
-  },
-  {
-    "uid": "tockington-manor-school"
-  },
-  {
-    "uid": "sandroyd-school"
-  },
-  {
-    "uid": "brambletye-school"
-  },
-  {
-    "uid": "westminster-school"
-  },
-  {
-    "uid": "ipswich-school"
-  },
-  {
-    "uid": "reeds-school"
-  },
-  {
-    "uid": "the-elms-school"
-  },
-  {
-    "uid": "st-johns-leatherhead"
-  },
-  {
-    "uid": "benenden-school"
-  },
-  {
-    "uid": "david-game-college"
-  },
-  {
-    "uid": "chethams-school-of-music"
-  },
-  {
-    "uid": "bishops-stortford-college"
-  },
-  {
-    "uid": "uwc-atlantic-college"
-  },
-  {
-    "uid": "cheltenham-ladies-college"
-  },
-  {
-    "uid": "cherwell-college"
-  }
+  "cranleigh-school",
+  "heathfield-school",
+  "port-regis-prep-school",
+  "stanborough-school",
+  "charterhouse",
+  "cothill-house-school",
+  "talbot-heath",
+  "wellesley-house-prep-school",
+  "aysgarth-school",
+  "warwick-school",
+  "st-johns-beaumont",
+  "wycombe-abbey-school",
+  "headington-school",
+  "kimbolton-school",
+  "packwood-haugh-school",
+  "abberley-hall-prep-school",
+  "tring-park-school-for-the-performing-arts",
+  "stoke-college",
+  "st-davids-college",
+  "tonbridge-school",
+  "pocklington-school",
+  "godstowe-preparatory-school",
+  "stowe-school",
+  "rugby-school",
+  "repton-school",
+  "wellington-college",
+  "sexeys-school",
+  "the-duke-of-yorks-royal-military-school",
+  "st-marys-school-ascot",
+  "st-edwards-school",
+  "polam-hall",
+  "uppingham-school",
+  "bilton-grange-preparatory-school",
+  "sevenoaks-school",
+  "royal-leamington-spa-college",
+  "downe-house",
+  "st-michaels-school-llanelli",
+  "sunningdale-school",
+  "st-catherines-school",
+  "ludgrove-school",
+  "purcell-school",
+  "the-blue-coat-prep-school",
+  "hockerill-anglo-european-college",
+  "the-royal-ballet-school",
+  "burford-school",
+  "maidwell-hall",
+  "dallam-school",
+  "the-park-school",
+  "wymondham-college",
+  "eton-college",
+  "malvern-college",
+  "old-buckenham-hall-school",
+  "papplewick-school",
+  "north-hill-house-school",
+  "summer-fields-school",
+  "tockington-manor-school",
+  "sandroyd-school",
+  "brambletye-school",
+  "westminster-school",
+  "ipswich-school",
+  "reeds-school",
+  "the-elms-school",
+  "st-johns-leatherhead",
+  "benenden-school",
+  "david-game-college",
+  "chethams-school-of-music",
+  "bishops-stortford-college",
+  "uwc-atlantic-college",
+  "cheltenham-ladies-college",
+  "cherwell-college"
 ]
