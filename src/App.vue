@@ -15,12 +15,13 @@
       newArr (modified files): {{newArr.length}}
       Final Output: {{finalOutput.length}}
       Difference {{finalOutput.length - oldArr.length}}
+      Difference {{oldArr.length - newArr.length}}
 
       simpleMerge: {{simpleMerge(oldArr, newArr).length}}
       Merge: {{merge(oldArr, newArr).length}}
       Compare:{{ compareArray(merge(oldArr, newArr), oldArr ).length}}
 </pre>
-    <pre
+  <pre
       style="color: red;"
       v-for="(item, j) in compareArray(merge(oldArr, newArr), oldArr )"
       :key="j"
@@ -29,17 +30,18 @@
       {{item.uid}}
       {{item.meta_title}}
     </pre>
-
+  <!-- 
     <pre style="color: blue;" v-for="(item, j) in newArr" :key="j">
       {{item.type}}
       {{item.uid}}
       {{item.meta_title}}
-    </pre>
+    </pre> -->
 
     <pre v-for="(item, i) in merge(oldArr, newArr)" :key="i">
       {{item.type}}
       {{item.uid}}
       {{item.meta_title}}
+      {{item.header_title}}
     </pre>
   </div>
 </template>
