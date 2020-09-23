@@ -17,15 +17,9 @@
       Difference {{finalOutput.length - oldArr.length}}
       Difference {{oldArr.length - newArr.length}}
 
-      s
+      merge: {{merge(oldArr, newArr).length}}
+
 </pre>
-  
-  <!-- 
-    <pre style="color: blue;" v-for="(item, j) in newArr" :key="j">
-      {{item.type}}
-      {{item.uid}}
-      {{item.meta_title}}
-    </pre> -->
 
     
   </div>
@@ -77,14 +71,14 @@ export default {
       newArr.forEach(i => {
         uidMapping[i.uid] = Object.assign(uidMapping[i.uid], i)
       })
-      console.log('before',  uidMapping['benenden-school'].body.length, uidMapping['benenden-school'].body.map(i => i.key))
+      // console.log('before',  uidMapping['benenden-school'].body.length, uidMapping['benenden-school'].body.map(i => i.key))
 
       exclusions.forEach(i => {
         const item = uidMapping[i]
         item.body = item.body.filter(j => !j.key.startsWith('image_splash'))
 
       })
-      console.log('after',  uidMapping['benenden-school'].body.length, uidMapping['benenden-school'].body.map(i => i.key))
+      // console.log('after',  uidMapping['benenden-school'].body.length, uidMapping['benenden-school'].body.map(i => i.key))
       //debugger //eslint-disable-line
       
       return oldArr;
