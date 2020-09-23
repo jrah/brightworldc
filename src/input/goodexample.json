@@ -1,0 +1,52 @@
+[
+  {
+    "X0VvbhAAACIAFtii$6905b68b-acc1-4254-afb2-8cb0b9f52cf0": {
+      "uid": "relax-and-revise-christmas-uk",
+      "meta_title": "Christmas holiday programme in the UK | Bright World",
+      "meta_description": "Relax & Revise has been designed to match the needs of international students, aged 12+ who want to spend the school Christmas holidays with their school friends at Cambridge Melchior College.",
+      "follow": "Follow",
+      "type": "holiday-courses",
+      "tags": [],
+      "lang": "en-gb",
+      "grouplang": "X0VvbhAAACIAFtik"
+    }
+  },
+  {
+    "X0VvbhAAACIAFtii$6905b68b-acc1-4254-afb2-8cb0b9f52cf0": {
+      "uid": "relax-and-revise-christmas-uk",
+      "meta_title": "Christmas holiday programme in the UK | Bright World",
+      "meta_description": "Relax & Revise has been designed to match the needs of international students, aged 12+ who want to spend the school Christmas holidays with their school friends at Cambridge Melchior College.",
+      "follow": "Follow",
+      "type": "holiday-courses",
+      "tags": [],
+      "lang": "en-gb",
+      "grouplang": "X0VvbhAAACIAFtik"
+    }
+  }
+]
+
+
+from this..
+
+{
+  "XzwtKhAAAGYI7bja$af4b01bb-f45d-431d-8a39-c866d1c55949": {
+    "uid": "quarantine-and-settling-in-starts",
+    "meta_title": "Our Quarantine and Settling In Programme gets under way in Cambridge | Bright World",
+    "meta_description": "Our first students are already half way through their quarantine period with us and more guardianship students are on their way. Read on to find out all about how our Quarantine and Settling-In Programme is going...",
+    "follow": "Follow",
+    "type": "news-and-blog",
+    "tags": [],
+    "lang": "en-gb",
+    "grouplang": "XzwtKhAAAGYI7bjc"
+  },
+  "XzwtKhAAAGYI7bja$af4b01bb-f45d-431d-8a39-c866d1c55949": {
+    "uid": "quarantine-and-settling-in-starts",
+    "meta_title": "Our Quarantine and Settling In Programme gets under way in Cambridge | Bright World",
+    "meta_description": "Our first students are already half way through their quarantine period with us and more guardianship students are on their way. Read on to find out all about how our Quarantine and Settling-In Programme is going...",
+    "follow": "Follow",
+    "type": "news-and-blog",
+    "tags": [],
+    "lang": "en-gb",
+    "grouplang": "XzwtKhAAAGYI7bjc"
+  }
+}
