@@ -27,7 +27,7 @@
 
 <script>
 import finalOutput from "./output.json";
-import oldArr from "./input/old.json";
+import oldArr from "./input/barray.json";
 import newArr from "./input/new.json";
 import exclusions from "./input/exclusions.json";
 
