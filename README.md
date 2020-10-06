@@ -1,24 +1,83 @@
-# brightworldc
+jq -cr 'keys[] as $k | "\($k)\n\(.[$k])"' sample_data.json | while read -r key; do
+  fname=$(jq --raw-output ".[$key].billingAccountNumber" sample_data.json)
+  read -r item
+  printf '%s\n' "$item" > "./$fname.json"
+done
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+jq -cr 'keys[] as $k | "\($k)\n\(.[$k])"' output.json | while read -r key; do
+  fname=$(jq --raw-output ".[$key].hash" output.json)
+  read -r item
+  printf '%s\n' "$item" > "./$fname.json"
+done
 
-### Compiles and minifies for production
-```
-yarn build
-```
+jq -cr 'keys[] as $k | "\($k)\n\(.[$k])"' sample_data2.json | while read -r key; do
+  fname=$(jq --raw-output ".[$key].grouplang" sample_data2.json)
+  read -r item
+  printf '%s\n' "$item" > "./$fname.json"
+done
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+remove h1s
+^.*h1.*\n
+
+^.*grouplang.*\n
+
+// remove hash
+"hash":"[^"]+"
+
+"grouplang"
+jq -n '
+  [inputs
+   | {(input_filename | gsub(".*/|\\.json$";"")): .}]
+  | add' *.json
+done
+
+jq -cr 'keys[] as $k | "\($k)\n\(.[$k])"' sample_data2.json | while read -r key; do
+  fname=$(jq -n '
+  [inputs
+   | {(input_filename | gsub(".*/|\\.json$";"")): .}]
+  | add' *.json)
+  read -r item
+  printf '%s\n' "$item" > "./$fname.json"
+done
+
+
+
+jq '{(input_filename | gsub(".*/|\\.json$";"")): .}' ./*.json | jq -s 'add' > bigarray.json
+
+
+jq '[{(input_filename | gsub(".*/|\\.json$";"")): .}]' ./*.json | jq -s 'add' > barray.json
+
+
+echo '{"hello": "world"}' | jq --arg foo bar '. + {hello: ("not" + $foo)}' > barray.json
+
+echo '{"hello": "world"} ' | jq --arg foo bar '. + {hello: ("not" + $foo)}' > barray.json
+
+jq '[.]' ./*.json | jq -s 'add' > barray.json
+
+
+jq '{"hello": "hello"}' ./*.json | jq -s 'add' > barray.json
+
+jq '.+= {"date": "2010-01-07T19:55:99.999Z", "xml": "xml_samplesheet_2017_01_07_run_09.xml", "status": "OKKK", "message": "metadata loaded into iRODS successfullyyyyy"}' ./*.json | jq -s 'add' > barray.json
+
+jq '[.+= { "hash": (input_filename | gsub(".*/|\\.json$";""))}]' ./*.json | jq -s 'add' > barray.json
+
+
+// want
+jq '.+= {"hash": (input_filename | gsub(".*/|\\.json$";"")) }' ./*.json | jq -s 'add' > barray.json
+
+
+in bigarray:
+
+find
+
+"
+  },
+
+  replace
+
+  "
+    },
+    {
