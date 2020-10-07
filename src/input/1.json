@@ -1,0 +1,2925 @@
+{
+    "X0VvbhAAACIAFtii$6905b68b-acc1-4254-afb2-8cb0b9f52cf0": {
+      "header_title": [
+        {
+          "type": "heading1",
+          "content": {
+            "text": "Relax & Revise @ Christmas in Cambridge ",
+            "spans": []
+          }
+        }
+      ],
+      "header_image": {
+        "origin": {
+          "id": "X0VxrBAAACQAFuKX",
+          "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+          "width": 800,
+          "height": 533
+        },
+        "width": 720,
+        "height": 480,
+        "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=720&h=480",
+        "edit": {
+          "background": "#fff",
+          "zoom": 0.900562851782364,
+          "crop": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "credits": null,
+        "alt": null,
+        "provider": "imgix",
+        "thumbnails": {
+          "small": {
+            "origin": {
+              "id": "X0VxrBAAACQAFuKX",
+              "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+              "width": 800,
+              "height": 533
+            },
+            "width": 720,
+            "height": 480,
+            "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=720&h=480",
+            "edit": {
+              "background": "#fff",
+              "zoom": 0.900562851782364,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": "imgix"
+          },
+          "medium": {
+            "origin": {
+              "id": "X0VxrBAAACQAFuKX",
+              "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+              "width": 800,
+              "height": 533
+            },
+            "width": 1080,
+            "height": 720,
+            "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=1080&h=720",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1.3508442776735459,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": "imgix"
+          },
+          "large": {
+            "origin": {
+              "id": "X0VxrBAAACQAFuKX",
+              "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+              "width": 800,
+              "height": 533
+            },
+            "width": 1440,
+            "height": 959,
+            "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=1440&h=959",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1.8,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": "imgix"
+          }
+        }
+      },
+      "inputs": [],
+      "header_type": "default",
+      "body": [
+        {
+          "key": "image_splash$a28a621a-bb1e-4215-b387-fb9bfe4e4849",
+          "value": {
+            "repeat": [
+              {}
+            ],
+            "non-repeat": {
+              "heading": [
+                {
+                  "type": "heading2",
+                  "content": {
+                    "text": "spend a traditional English Christmas at Cambridge Melchior College",
+                    "spans": []
+                  }
+                }
+              ],
+              "image": {
+                "origin": {
+                  "id": "X0V0AhAAACQAFuz9",
+                  "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                  "width": 800,
+                  "height": 800
+                },
+                "width": 1440,
+                "height": 1440,
+                "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=1440&h=1440",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.8,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": "student with christmas hat on",
+                "provider": "imgix",
+                "thumbnails": {
+                  "small": {
+                    "origin": {
+                      "id": "X0V0AhAAACQAFuz9",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                      "width": 800,
+                      "height": 800
+                    },
+                    "width": 480,
+                    "height": 480,
+                    "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=480&h=480",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 0.6,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  },
+                  "medium": {
+                    "origin": {
+                      "id": "X0V0AhAAACQAFuz9",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                      "width": 800,
+                      "height": 800
+                    },
+                    "width": 720,
+                    "height": 720,
+                    "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=720&h=720",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 0.9,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  },
+                  "large": {
+                    "origin": {
+                      "id": "X0V0AhAAACQAFuz9",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                      "width": 800,
+                      "height": 800
+                    },
+                    "width": 1080,
+                    "height": 1080,
+                    "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=1080&h=1080",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 1.35,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  }
+                }
+              },
+              "copy": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "With Covid-19 Travel restrictions and quarantine requirements likely to still be in place in December 2020, it is expected that many of our students will wish to remain in the UK for their Christmas 2020 break when their boarding schools close for the holidays. ",
+                    "spans": []
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "With this in mind,  Bright World has, for the first time created a bespoke Christmas programme with our partners, Cambridge Melchior College that spans the entire Christmas school holiday period for students at boarding schools across the UK. ",
+                    "spans": []
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "At Cambridge Melchior College (CMC) Bright World students will be able to combine a relaxing break with Christmas activities and selected themed outings (as permitted at the time according to UK Government Covid-19 guidelines). ",
+                    "spans": []
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "image_splash$615e3b83-0b64-40a1-8adf-6b798818f98c",
+          "value": {
+            "repeat": [
+              {}
+            ],
+            "non-repeat": {
+              "heading": [
+                {
+                  "type": "heading2",
+                  "content": {
+                    "text": "the perfect location for an English Christmas ",
+                    "spans": []
+                  }
+                }
+              ],
+              "image": {
+                "origin": {
+                  "id": "X0Vz-xAAACUAFuzc",
+                  "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                  "width": 800,
+                  "height": 534
+                },
+                "width": 1440,
+                "height": 961,
+                "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,800,534&w=1440&h=961",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.8,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": "imgix",
+                "thumbnails": {
+                  "small": {
+                    "origin": {
+                      "id": "X0Vz-xAAACUAFuzc",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                      "width": 800,
+                      "height": 534
+                    },
+                    "width": 480,
+                    "height": 320,
+                    "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,800,533&w=480&h=320",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 0.6,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  },
+                  "medium": {
+                    "origin": {
+                      "id": "X0Vz-xAAACUAFuzc",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                      "width": 800,
+                      "height": 534
+                    },
+                    "width": 720,
+                    "height": 481,
+                    "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,799,534&w=720&h=481",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 0.900749063670412,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  },
+                  "large": {
+                    "origin": {
+                      "id": "X0Vz-xAAACUAFuzc",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                      "width": 800,
+                      "height": 534
+                    },
+                    "width": 1080,
+                    "height": 721,
+                    "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,800,534&w=1080&h=721",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 1.350187265917603,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  }
+                }
+              },
+              "copy": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Cambridge Melchior College is the perfect location for a Christmas celebration. It will have Christmas trees and log fires in each of the relaxation rooms, creating a warm and welcoming atmosphere. ",
+                    "spans": []
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "The college boasts en-suite bedrooms ranging from four bedded to larger dormitory style rooms with up to eight beds. There are several large classrooms along with smaller study rooms which can accommodate up to 40 students. ",
+                    "spans": []
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Depending on guidance during December 2020, we will accommodate students in singles or twins, or if allowed we can allow more students to share. Our programme will be updated as guidance is made clearer.",
+                    "spans": []
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "image_splash$af9c3bb4-15be-43e1-964d-815226577737",
+          "value": {
+            "repeat": [
+              {}
+            ],
+            "non-repeat": {
+              "heading": [
+                {
+                  "type": "heading2",
+                  "content": {
+                    "text": "Christmas-themed activities and outings ",
+                    "spans": []
+                  }
+                }
+              ],
+              "image": {
+                "origin": {
+                  "id": "X0V0ARAAACIAFuzz",
+                  "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                  "width": 800,
+                  "height": 548
+                },
+                "width": 1440,
+                "height": 986,
+                "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=1440&h=986",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.8,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": "imgix",
+                "thumbnails": {
+                  "small": {
+                    "origin": {
+                      "id": "X0V0ARAAACIAFuzz",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                      "width": 800,
+                      "height": 548
+                    },
+                    "width": 480,
+                    "height": 329,
+                    "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=480&h=329",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 0.6003649635036497,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  },
+                  "medium": {
+                    "origin": {
+                      "id": "X0V0ARAAACIAFuzz",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                      "width": 800,
+                      "height": 548
+                    },
+                    "width": 720,
+                    "height": 493,
+                    "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=720&h=493",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 0.9,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  },
+                  "large": {
+                    "origin": {
+                      "id": "X0V0ARAAACIAFuzz",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                      "width": 800,
+                      "height": 548
+                    },
+                    "width": 1080,
+                    "height": 740,
+                    "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=1080&h=740",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 1.3503649635036497,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  }
+                }
+              },
+              "copy": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "As part of the Christmas Programme and if excursions are allowed, students will experience ice skating in Cambridge and a trip to Ely Cathedral along with Christmas-based craft activities, carol singing and seasonal food. ",
+                    "spans": []
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Once Christmas-themed evening activities are finished students will be free to relax in their cosy rooms or sit in front of our log fire and reflect upon your day.",
+                    "spans": []
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "rich_text_area$65365444-d517-498f-b3d8-0bbdb2ab9fed",
+          "value": {
+            "repeat": [
+              {}
+            ],
+            "non-repeat": {
+              "heading": [
+                {
+                  "type": "heading2",
+                  "content": {
+                    "text": "a sample Christmas week ",
+                    "spans": []
+                  }
+                }
+              ],
+              "content": [
+                {
+                  "content": {
+                    "spans": [],
+                    "text": ""
+                  },
+                  "type": "image",
+                  "data": {
+                    "origin": {
+                      "id": "X0_T2RAAAJUT9Yv3",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/0262eccc-2a8f-4f91-827d-52b4986f7b59_Screenshot+2020-09-02+at+18.16.50.png",
+                      "width": 2134,
+                      "height": 1234
+                    },
+                    "width": 2134,
+                    "height": 1234,
+                    "url": "https://images.prismic.io/brightworld/0262eccc-2a8f-4f91-827d-52b4986f7b59_Screenshot+2020-09-02+at+18.16.50.png?auto=compress,format",
+                    "edit": {
+                      "background": "transparent",
+                      "zoom": 1,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix",
+                    "linkTo": null
+                  },
+                  "label": null,
+                  "direction": null
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "comparison_table$cf1d276d-1938-474f-bf11-9966a570af8e",
+          "value": {
+            "repeat": [
+              {
+                "heading": [
+                  {
+                    "type": "heading2",
+                    "content": {
+                      "text": "fees ",
+                      "spans": []
+                    }
+                  }
+                ],
+                "paragraph": "£85 per night plus £100 per week Christmas supplement",
+                "list": [
+                  {
+                    "type": "list-item",
+                    "content": {
+                      "text": "Twin or triple bedroom",
+                      "spans": []
+                    }
+                  },
+                  {
+                    "type": "list-item",
+                    "content": {
+                      "text": "Full board - three meals ",
+                      "spans": []
+                    }
+                  },
+                  {
+                    "type": "list-item",
+                    "content": {
+                      "text": "24/7 supervision ",
+                      "spans": []
+                    }
+                  },
+                  {
+                    "type": "list-item",
+                    "content": {
+                      "text": "An afternoon outing offered on most days",
+                      "spans": []
+                    }
+                  },
+                  {
+                    "type": "list-item",
+                    "content": {
+                      "text": "One weekly full day excursion ",
+                      "spans": []
+                    }
+                  },
+                  {
+                    "type": "list-item",
+                    "content": {
+                      "text": "Wi-Fi available throughout the college",
+                      "spans": []
+                    }
+                  },
+                  {
+                    "type": "list-item",
+                    "content": {
+                      "text": "Stockings and presents ",
+                      "spans": []
+                    }
+                  }
+                ]
+              },
+              {
+                "heading": [
+                  {
+                    "type": "heading3",
+                    "content": {
+                      "text": "extra costs ",
+                      "spans": []
+                    }
+                  }
+                ],
+                "paragraph": "not included in the programme fee",
+                "list": [
+                  {
+                    "type": "list-item",
+                    "content": {
+                      "text": "return transfers to and from the centre",
+                      "spans": []
+                    }
+                  },
+                  {
+                    "type": "list-item",
+                    "content": {
+                      "text": "entrance fees ",
+                      "spans": []
+                    }
+                  },
+                  {
+                    "type": "list-item",
+                    "content": {
+                      "text": "small supplement payable for restaurant meals out \n\n\n",
+                      "spans": []
+                    }
+                  }
+                ]
+              },
+              {
+                "heading": [
+                  {
+                    "type": "heading3",
+                    "content": {
+                      "text": "dates 2020/21",
+                      "spans": []
+                    }
+                  }
+                ],
+                "paragraph": "Christmas 2020",
+                "list": [
+                  {
+                    "type": "list-item",
+                    "content": {
+                      "text": "11th December - 11th January",
+                      "spans": []
+                    }
+                  }
+                ]
+              }
+            ],
+            "non-repeat": {
+              "heading": [
+                {
+                  "type": "heading1",
+                  "content": {
+                    "text": "fees and what is included ",
+                    "spans": []
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "card_block$d81d2422-e2a6-4850-9129-91d3d6a753a1",
+          "value": {
+            "repeat": [
+              {
+                "image": {
+                  "origin": {
+                    "id": "XyHJMREAACUAt4U7",
+                    "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                    "width": 1599,
+                    "height": 1063
+                  },
+                  "width": 144,
+                  "height": 96,
+                  "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=144&h=96",
+                  "edit": {
+                    "background": "#fff",
+                    "zoom": 0.09031044214487301,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "credits": null,
+                  "alt": "Cambridge Melchior College ",
+                  "provider": "imgix",
+                  "thumbnails": {
+                    "small": {
+                      "origin": {
+                        "id": "XyHJMREAACUAt4U7",
+                        "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                        "width": 1599,
+                        "height": 1063
+                      },
+                      "width": 144,
+                      "height": 96,
+                      "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=144&h=96",
+                      "edit": {
+                        "background": "#fff",
+                        "zoom": 0.09031044214487301,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "credits": null,
+                      "alt": null,
+                      "provider": "imgix"
+                    },
+                    "medium": {
+                      "origin": {
+                        "id": "XyHJMREAACUAt4U7",
+                        "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                        "width": 1599,
+                        "height": 1063
+                      },
+                      "width": 144,
+                      "height": 96,
+                      "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=144&h=96",
+                      "edit": {
+                        "background": "#fff",
+                        "zoom": 0.09031044214487301,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "credits": null,
+                      "alt": null,
+                      "provider": "imgix"
+                    },
+                    "large": {
+                      "origin": {
+                        "id": "XyHJMREAACUAt4U7",
+                        "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                        "width": 1599,
+                        "height": 1063
+                      },
+                      "width": 240,
+                      "height": 160,
+                      "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=240&h=160",
+                      "edit": {
+                        "background": "#fff",
+                        "zoom": 0.15051740357478832,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "credits": null,
+                      "alt": null,
+                      "provider": "imgix"
+                    }
+                  }
+                },
+                "heading": [
+                  {
+                    "type": "heading3",
+                    "content": {
+                      "text": "Gallery of photos ",
+                      "spans": []
+                    }
+                  }
+                ],
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": {
+                      "text": "see where Relax and Revise takes place ",
+                      "spans": []
+                    }
+                  }
+                ],
+                "button_link": {
+                  "id": "XyGvoxEAACYAtxJt",
+                  "wioUrl": "wio://documents/XyGvoxEAACYAtxJt"
+                }
+              },
+              {
+                "image": {
+                  "origin": {
+                    "id": "XRpCgxAAACQAvHjJ",
+                    "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                    "width": 2000,
+                    "height": 667
+                  },
+                  "width": 144,
+                  "height": 48,
+                  "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=144&h=48",
+                  "edit": {
+                    "background": "#fff",
+                    "zoom": 0.072,
+                    "crop": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "credits": null,
+                  "alt": "popcorn ",
+                  "provider": "imgix",
+                  "thumbnails": {
+                    "small": {
+                      "origin": {
+                        "id": "XRpCgxAAACQAvHjJ",
+                        "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                        "width": 2000,
+                        "height": 667
+                      },
+                      "width": 144,
+                      "height": 48,
+                      "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=144&h=48",
+                      "edit": {
+                        "background": "#fff",
+                        "zoom": 0.072,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "credits": null,
+                      "alt": null,
+                      "provider": "imgix"
+                    },
+                    "medium": {
+                      "origin": {
+                        "id": "XRpCgxAAACQAvHjJ",
+                        "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                        "width": 2000,
+                        "height": 667
+                      },
+                      "width": 144,
+                      "height": 48,
+                      "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=144&h=48",
+                      "edit": {
+                        "background": "#fff",
+                        "zoom": 0.072,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "credits": null,
+                      "alt": null,
+                      "provider": "imgix"
+                    },
+                    "large": {
+                      "origin": {
+                        "id": "XRpCgxAAACQAvHjJ",
+                        "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                        "width": 2000,
+                        "height": 667
+                      },
+                      "width": 240,
+                      "height": 80,
+                      "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=240&h=80",
+                      "edit": {
+                        "background": "#fff",
+                        "zoom": 0.12,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "credits": null,
+                      "alt": null,
+                      "provider": "imgix"
+                    }
+                  }
+                },
+                "heading": [
+                  {
+                    "type": "heading3",
+                    "content": {
+                      "text": "Relax & Revise video",
+                      "spans": []
+                    }
+                  }
+                ],
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": {
+                      "text": "hear what some of our students have to say ",
+                      "spans": []
+                    }
+                  }
+                ],
+                "button_link": {
+                  "id": "XRoYRhAAACIAu7jU",
+                  "wioUrl": "wio://documents/XRoYRhAAACIAu7jU"
+                },
+                "button_text": "View now"
+              }
+            ],
+            "non-repeat": {
+              "heading": [
+                {
+                  "type": "heading2",
+                  "content": {
+                    "text": "find out more about the programme",
+                    "spans": []
+                  }
+                }
+              ],
+              "type": "informative",
+              "font_color": "dark"
+            }
+          }
+        },
+        {
+          "key": "simple_selection$5f82a99c-4f34-4bd0-89ec-557e2ace16be",
+          "value": {
+            "repeat": [
+              {
+                "heading": "Enquire now",
+                "link": {
+                  "id": "XQEELRIAAHCfjhJY",
+                  "wioUrl": "wio://documents/XQEELRIAAHCfjhJY"
+                }
+              },
+              {
+                "heading": "Apply for Relax & Revise and UK Guardianship",
+                "link": {
+                  "url": "https://www.brightworld.co.uk/guardianship/apply.asp",
+                  "preview": null
+                }
+              }
+            ],
+            "non-repeat": {
+              "heading": [
+                {
+                  "type": "heading1",
+                  "content": {
+                    "text": "enquire or apply now",
+                    "spans": []
+                  }
+                }
+              ],
+              "font_color": "light"
+            }
+          }
+        }
+      ],
+      "uid": "relax-and-revise-christmas-uk",
+      "meta_title": "Christmas holiday programme in the UK | Bright World",
+      "meta_description": "Relax & Revise has been designed to match the needs of international students, aged 12+ who want to spend the school Christmas holidays with their school friends at Cambridge Melchior College.",
+      "follow": "Follow",
+      "type": "holiday-courses",
+      "tags": [],
+      "lang": "en-gb",
+      "grouplang": "X0VvbhAAACIAFtik"
+    },
+    {
+        "X0VvbhAAACIAFtii$6905b68b-acc1-4254-afb2-8cb0b9f52cf0": {
+          "header_title": [
+            {
+              "type": "heading1",
+              "content": {
+                "text": "Relax & Revise @ Christmas in Cambridge ",
+                "spans": []
+              }
+            }
+          ],
+          "header_image": {
+            "origin": {
+              "id": "X0VxrBAAACQAFuKX",
+              "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+              "width": 800,
+              "height": 533
+            },
+            "width": 720,
+            "height": 480,
+            "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=720&h=480",
+            "edit": {
+              "background": "#fff",
+              "zoom": 0.900562851782364,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": "imgix",
+            "thumbnails": {
+              "small": {
+                "origin": {
+                  "id": "X0VxrBAAACQAFuKX",
+                  "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+                  "width": 800,
+                  "height": 533
+                },
+                "width": 720,
+                "height": 480,
+                "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=720&h=480",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 0.900562851782364,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": "imgix"
+              },
+              "medium": {
+                "origin": {
+                  "id": "X0VxrBAAACQAFuKX",
+                  "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+                  "width": 800,
+                  "height": 533
+                },
+                "width": 1080,
+                "height": 720,
+                "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=1080&h=720",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3508442776735459,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": "imgix"
+              },
+              "large": {
+                "origin": {
+                  "id": "X0VxrBAAACQAFuKX",
+                  "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+                  "width": 800,
+                  "height": 533
+                },
+                "width": 1440,
+                "height": 959,
+                "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=1440&h=959",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.8,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": "imgix"
+              }
+            }
+          },
+          "inputs": [],
+          "header_type": "default",
+          "body": [
+            {
+              "key": "image_splash$a28a621a-bb1e-4215-b387-fb9bfe4e4849",
+              "value": {
+                "repeat": [
+                  {}
+                ],
+                "non-repeat": {
+                  "heading": [
+                    {
+                      "type": "heading2",
+                      "content": {
+                        "text": "spend a traditional English Christmas at Cambridge Melchior College",
+                        "spans": []
+                      }
+                    }
+                  ],
+                  "image": {
+                    "origin": {
+                      "id": "X0V0AhAAACQAFuz9",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                      "width": 800,
+                      "height": 800
+                    },
+                    "width": 1440,
+                    "height": 1440,
+                    "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=1440&h=1440",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 1.8,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": "student with christmas hat on",
+                    "provider": "imgix",
+                    "thumbnails": {
+                      "small": {
+                        "origin": {
+                          "id": "X0V0AhAAACQAFuz9",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                          "width": 800,
+                          "height": 800
+                        },
+                        "width": 480,
+                        "height": 480,
+                        "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=480&h=480",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 0.6,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix"
+                      },
+                      "medium": {
+                        "origin": {
+                          "id": "X0V0AhAAACQAFuz9",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                          "width": 800,
+                          "height": 800
+                        },
+                        "width": 720,
+                        "height": 720,
+                        "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=720&h=720",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 0.9,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix"
+                      },
+                      "large": {
+                        "origin": {
+                          "id": "X0V0AhAAACQAFuz9",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                          "width": 800,
+                          "height": 800
+                        },
+                        "width": 1080,
+                        "height": 1080,
+                        "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=1080&h=1080",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 1.35,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix"
+                      }
+                    }
+                  },
+                  "copy": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "With Covid-19 Travel restrictions and quarantine requirements likely to still be in place in December 2020, it is expected that many of our students will wish to remain in the UK for their Christmas 2020 break when their boarding schools close for the holidays. ",
+                        "spans": []
+                      }
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "With this in mind,  Bright World has, for the first time created a bespoke Christmas programme with our partners, Cambridge Melchior College that spans the entire Christmas school holiday period for students at boarding schools across the UK. ",
+                        "spans": []
+                      }
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "At Cambridge Melchior College (CMC) Bright World students will be able to combine a relaxing break with Christmas activities and selected themed outings (as permitted at the time according to UK Government Covid-19 guidelines). ",
+                        "spans": []
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "image_splash$615e3b83-0b64-40a1-8adf-6b798818f98c",
+              "value": {
+                "repeat": [
+                  {}
+                ],
+                "non-repeat": {
+                  "heading": [
+                    {
+                      "type": "heading2",
+                      "content": {
+                        "text": "the perfect location for an English Christmas ",
+                        "spans": []
+                      }
+                    }
+                  ],
+                  "image": {
+                    "origin": {
+                      "id": "X0Vz-xAAACUAFuzc",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                      "width": 800,
+                      "height": 534
+                    },
+                    "width": 1440,
+                    "height": 961,
+                    "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,800,534&w=1440&h=961",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 1.8,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix",
+                    "thumbnails": {
+                      "small": {
+                        "origin": {
+                          "id": "X0Vz-xAAACUAFuzc",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                          "width": 800,
+                          "height": 534
+                        },
+                        "width": 480,
+                        "height": 320,
+                        "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,800,533&w=480&h=320",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 0.6,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix"
+                      },
+                      "medium": {
+                        "origin": {
+                          "id": "X0Vz-xAAACUAFuzc",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                          "width": 800,
+                          "height": 534
+                        },
+                        "width": 720,
+                        "height": 481,
+                        "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,799,534&w=720&h=481",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 0.900749063670412,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix"
+                      },
+                      "large": {
+                        "origin": {
+                          "id": "X0Vz-xAAACUAFuzc",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                          "width": 800,
+                          "height": 534
+                        },
+                        "width": 1080,
+                        "height": 721,
+                        "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,800,534&w=1080&h=721",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 1.350187265917603,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix"
+                      }
+                    }
+                  },
+                  "copy": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Cambridge Melchior College is the perfect location for a Christmas celebration. It will have Christmas trees and log fires in each of the relaxation rooms, creating a warm and welcoming atmosphere. ",
+                        "spans": []
+                      }
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "The college boasts en-suite bedrooms ranging from four bedded to larger dormitory style rooms with up to eight beds. There are several large classrooms along with smaller study rooms which can accommodate up to 40 students. ",
+                        "spans": []
+                      }
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Depending on guidance during December 2020, we will accommodate students in singles or twins, or if allowed we can allow more students to share. Our programme will be updated as guidance is made clearer.",
+                        "spans": []
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "image_splash$af9c3bb4-15be-43e1-964d-815226577737",
+              "value": {
+                "repeat": [
+                  {}
+                ],
+                "non-repeat": {
+                  "heading": [
+                    {
+                      "type": "heading2",
+                      "content": {
+                        "text": "Christmas-themed activities and outings ",
+                        "spans": []
+                      }
+                    }
+                  ],
+                  "image": {
+                    "origin": {
+                      "id": "X0V0ARAAACIAFuzz",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                      "width": 800,
+                      "height": 548
+                    },
+                    "width": 1440,
+                    "height": 986,
+                    "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=1440&h=986",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 1.8,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix",
+                    "thumbnails": {
+                      "small": {
+                        "origin": {
+                          "id": "X0V0ARAAACIAFuzz",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                          "width": 800,
+                          "height": 548
+                        },
+                        "width": 480,
+                        "height": 329,
+                        "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=480&h=329",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 0.6003649635036497,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix"
+                      },
+                      "medium": {
+                        "origin": {
+                          "id": "X0V0ARAAACIAFuzz",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                          "width": 800,
+                          "height": 548
+                        },
+                        "width": 720,
+                        "height": 493,
+                        "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=720&h=493",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 0.9,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix"
+                      },
+                      "large": {
+                        "origin": {
+                          "id": "X0V0ARAAACIAFuzz",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                          "width": 800,
+                          "height": 548
+                        },
+                        "width": 1080,
+                        "height": 740,
+                        "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=1080&h=740",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 1.3503649635036497,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix"
+                      }
+                    }
+                  },
+                  "copy": [
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "As part of the Christmas Programme and if excursions are allowed, students will experience ice skating in Cambridge and a trip to Ely Cathedral along with Christmas-based craft activities, carol singing and seasonal food. ",
+                        "spans": []
+                      }
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": {
+                        "text": "Once Christmas-themed evening activities are finished students will be free to relax in their cosy rooms or sit in front of our log fire and reflect upon your day.",
+                        "spans": []
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "rich_text_area$65365444-d517-498f-b3d8-0bbdb2ab9fed",
+              "value": {
+                "repeat": [
+                  {}
+                ],
+                "non-repeat": {
+                  "heading": [
+                    {
+                      "type": "heading2",
+                      "content": {
+                        "text": "a sample Christmas week ",
+                        "spans": []
+                      }
+                    }
+                  ],
+                  "content": [
+                    {
+                      "content": {
+                        "spans": [],
+                        "text": ""
+                      },
+                      "type": "image",
+                      "data": {
+                        "origin": {
+                          "id": "X0_T2RAAAJUT9Yv3",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/0262eccc-2a8f-4f91-827d-52b4986f7b59_Screenshot+2020-09-02+at+18.16.50.png",
+                          "width": 2134,
+                          "height": 1234
+                        },
+                        "width": 2134,
+                        "height": 1234,
+                        "url": "https://images.prismic.io/brightworld/0262eccc-2a8f-4f91-827d-52b4986f7b59_Screenshot+2020-09-02+at+18.16.50.png?auto=compress,format",
+                        "edit": {
+                          "background": "transparent",
+                          "zoom": 1,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix",
+                        "linkTo": null
+                      },
+                      "label": null,
+                      "direction": null
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "comparison_table$cf1d276d-1938-474f-bf11-9966a570af8e",
+              "value": {
+                "repeat": [
+                  {
+                    "heading": [
+                      {
+                        "type": "heading2",
+                        "content": {
+                          "text": "fees ",
+                          "spans": []
+                        }
+                      }
+                    ],
+                    "paragraph": "£85 per night plus £100 per week Christmas supplement",
+                    "list": [
+                      {
+                        "type": "list-item",
+                        "content": {
+                          "text": "Twin or triple bedroom",
+                          "spans": []
+                        }
+                      },
+                      {
+                        "type": "list-item",
+                        "content": {
+                          "text": "Full board - three meals ",
+                          "spans": []
+                        }
+                      },
+                      {
+                        "type": "list-item",
+                        "content": {
+                          "text": "24/7 supervision ",
+                          "spans": []
+                        }
+                      },
+                      {
+                        "type": "list-item",
+                        "content": {
+                          "text": "An afternoon outing offered on most days",
+                          "spans": []
+                        }
+                      },
+                      {
+                        "type": "list-item",
+                        "content": {
+                          "text": "One weekly full day excursion ",
+                          "spans": []
+                        }
+                      },
+                      {
+                        "type": "list-item",
+                        "content": {
+                          "text": "Wi-Fi available throughout the college",
+                          "spans": []
+                        }
+                      },
+                      {
+                        "type": "list-item",
+                        "content": {
+                          "text": "Stockings and presents ",
+                          "spans": []
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "heading": [
+                      {
+                        "type": "heading3",
+                        "content": {
+                          "text": "extra costs ",
+                          "spans": []
+                        }
+                      }
+                    ],
+                    "paragraph": "not included in the programme fee",
+                    "list": [
+                      {
+                        "type": "list-item",
+                        "content": {
+                          "text": "return transfers to and from the centre",
+                          "spans": []
+                        }
+                      },
+                      {
+                        "type": "list-item",
+                        "content": {
+                          "text": "entrance fees ",
+                          "spans": []
+                        }
+                      },
+                      {
+                        "type": "list-item",
+                        "content": {
+                          "text": "small supplement payable for restaurant meals out \n\n\n",
+                          "spans": []
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "heading": [
+                      {
+                        "type": "heading3",
+                        "content": {
+                          "text": "dates 2020/21",
+                          "spans": []
+                        }
+                      }
+                    ],
+                    "paragraph": "Christmas 2020",
+                    "list": [
+                      {
+                        "type": "list-item",
+                        "content": {
+                          "text": "11th December - 11th January",
+                          "spans": []
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "non-repeat": {
+                  "heading": [
+                    {
+                      "type": "heading1",
+                      "content": {
+                        "text": "fees and what is included ",
+                        "spans": []
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "card_block$d81d2422-e2a6-4850-9129-91d3d6a753a1",
+              "value": {
+                "repeat": [
+                  {
+                    "image": {
+                      "origin": {
+                        "id": "XyHJMREAACUAt4U7",
+                        "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                        "width": 1599,
+                        "height": 1063
+                      },
+                      "width": 144,
+                      "height": 96,
+                      "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=144&h=96",
+                      "edit": {
+                        "background": "#fff",
+                        "zoom": 0.09031044214487301,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "credits": null,
+                      "alt": "Cambridge Melchior College ",
+                      "provider": "imgix",
+                      "thumbnails": {
+                        "small": {
+                          "origin": {
+                            "id": "XyHJMREAACUAt4U7",
+                            "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                            "width": 1599,
+                            "height": 1063
+                          },
+                          "width": 144,
+                          "height": 96,
+                          "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=144&h=96",
+                          "edit": {
+                            "background": "#fff",
+                            "zoom": 0.09031044214487301,
+                            "crop": {
+                              "x": 0,
+                              "y": 0
+                            }
+                          },
+                          "credits": null,
+                          "alt": null,
+                          "provider": "imgix"
+                        },
+                        "medium": {
+                          "origin": {
+                            "id": "XyHJMREAACUAt4U7",
+                            "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                            "width": 1599,
+                            "height": 1063
+                          },
+                          "width": 144,
+                          "height": 96,
+                          "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=144&h=96",
+                          "edit": {
+                            "background": "#fff",
+                            "zoom": 0.09031044214487301,
+                            "crop": {
+                              "x": 0,
+                              "y": 0
+                            }
+                          },
+                          "credits": null,
+                          "alt": null,
+                          "provider": "imgix"
+                        },
+                        "large": {
+                          "origin": {
+                            "id": "XyHJMREAACUAt4U7",
+                            "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                            "width": 1599,
+                            "height": 1063
+                          },
+                          "width": 240,
+                          "height": 160,
+                          "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=240&h=160",
+                          "edit": {
+                            "background": "#fff",
+                            "zoom": 0.15051740357478832,
+                            "crop": {
+                              "x": 0,
+                              "y": 0
+                            }
+                          },
+                          "credits": null,
+                          "alt": null,
+                          "provider": "imgix"
+                        }
+                      }
+                    },
+                    "heading": [
+                      {
+                        "type": "heading3",
+                        "content": {
+                          "text": "Gallery of photos ",
+                          "spans": []
+                        }
+                      }
+                    ],
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": {
+                          "text": "see where Relax and Revise takes place ",
+                          "spans": []
+                        }
+                      }
+                    ],
+                    "button_link": {
+                      "id": "XyGvoxEAACYAtxJt",
+                      "wioUrl": "wio://documents/XyGvoxEAACYAtxJt"
+                    }
+                  },
+                  {
+                    "image": {
+                      "origin": {
+                        "id": "XRpCgxAAACQAvHjJ",
+                        "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                        "width": 2000,
+                        "height": 667
+                      },
+                      "width": 144,
+                      "height": 48,
+                      "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=144&h=48",
+                      "edit": {
+                        "background": "#fff",
+                        "zoom": 0.072,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "credits": null,
+                      "alt": "popcorn ",
+                      "provider": "imgix",
+                      "thumbnails": {
+                        "small": {
+                          "origin": {
+                            "id": "XRpCgxAAACQAvHjJ",
+                            "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                            "width": 2000,
+                            "height": 667
+                          },
+                          "width": 144,
+                          "height": 48,
+                          "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=144&h=48",
+                          "edit": {
+                            "background": "#fff",
+                            "zoom": 0.072,
+                            "crop": {
+                              "x": 0,
+                              "y": 0
+                            }
+                          },
+                          "credits": null,
+                          "alt": null,
+                          "provider": "imgix"
+                        },
+                        "medium": {
+                          "origin": {
+                            "id": "XRpCgxAAACQAvHjJ",
+                            "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                            "width": 2000,
+                            "height": 667
+                          },
+                          "width": 144,
+                          "height": 48,
+                          "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=144&h=48",
+                          "edit": {
+                            "background": "#fff",
+                            "zoom": 0.072,
+                            "crop": {
+                              "x": 0,
+                              "y": 0
+                            }
+                          },
+                          "credits": null,
+                          "alt": null,
+                          "provider": "imgix"
+                        },
+                        "large": {
+                          "origin": {
+                            "id": "XRpCgxAAACQAvHjJ",
+                            "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                            "width": 2000,
+                            "height": 667
+                          },
+                          "width": 240,
+                          "height": 80,
+                          "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=240&h=80",
+                          "edit": {
+                            "background": "#fff",
+                            "zoom": 0.12,
+                            "crop": {
+                              "x": 0,
+                              "y": 0
+                            }
+                          },
+                          "credits": null,
+                          "alt": null,
+                          "provider": "imgix"
+                        }
+                      }
+                    },
+                    "heading": [
+                      {
+                        "type": "heading3",
+                        "content": {
+                          "text": "Relax & Revise video",
+                          "spans": []
+                        }
+                      }
+                    ],
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": {
+                          "text": "hear what some of our students have to say ",
+                          "spans": []
+                        }
+                      }
+                    ],
+                    "button_link": {
+                      "id": "XRoYRhAAACIAu7jU",
+                      "wioUrl": "wio://documents/XRoYRhAAACIAu7jU"
+                    },
+                    "button_text": "View now"
+                  }
+                ],
+                "non-repeat": {
+                  "heading": [
+                    {
+                      "type": "heading2",
+                      "content": {
+                        "text": "find out more about the programme",
+                        "spans": []
+                      }
+                    }
+                  ],
+                  "type": "informative",
+                  "font_color": "dark"
+                }
+              }
+            },
+            {
+              "key": "simple_selection$5f82a99c-4f34-4bd0-89ec-557e2ace16be",
+              "value": {
+                "repeat": [
+                  {
+                    "heading": "Enquire now",
+                    "link": {
+                      "id": "XQEELRIAAHCfjhJY",
+                      "wioUrl": "wio://documents/XQEELRIAAHCfjhJY"
+                    }
+                  },
+                  {
+                    "heading": "Apply for Relax & Revise and UK Guardianship",
+                    "link": {
+                      "url": "https://www.brightworld.co.uk/guardianship/apply.asp",
+                      "preview": null
+                    }
+                  }
+                ],
+                "non-repeat": {
+                  "heading": [
+                    {
+                      "type": "heading1",
+                      "content": {
+                        "text": "enquire or apply now",
+                        "spans": []
+                      }
+                    }
+                  ],
+                  "font_color": "light"
+                }
+              }
+            }
+          ],
+          "uid": "relax-and-revise-christmas-uk",
+          "meta_title": "Christmas holiday programme in the UK | Bright World",
+          "meta_description": "Relax & Revise has been designed to match the needs of international students, aged 12+ who want to spend the school Christmas holidays with their school friends at Cambridge Melchior College.",
+          "follow": "Follow",
+          "type": "holiday-courses",
+          "tags": [],
+          "lang": "en-gb",
+          "grouplang": "X0VvbhAAACIAFtik"
+        },
+        {
+            "X0VvbhAAACIAFtii$6905b68b-acc1-4254-afb2-8cb0b9f52cf0": {
+              "header_title": [
+                {
+                  "type": "heading1",
+                  "content": {
+                    "text": "Relax & Revise @ Christmas in Cambridge ",
+                    "spans": []
+                  }
+                }
+              ],
+              "header_image": {
+                "origin": {
+                  "id": "X0VxrBAAACQAFuKX",
+                  "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+                  "width": 800,
+                  "height": 533
+                },
+                "width": 720,
+                "height": 480,
+                "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=720&h=480",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 0.900562851782364,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": "imgix",
+                "thumbnails": {
+                  "small": {
+                    "origin": {
+                      "id": "X0VxrBAAACQAFuKX",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+                      "width": 800,
+                      "height": 533
+                    },
+                    "width": 720,
+                    "height": 480,
+                    "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=720&h=480",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 0.900562851782364,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  },
+                  "medium": {
+                    "origin": {
+                      "id": "X0VxrBAAACQAFuKX",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+                      "width": 800,
+                      "height": 533
+                    },
+                    "width": 1080,
+                    "height": 720,
+                    "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=1080&h=720",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 1.3508442776735459,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  },
+                  "large": {
+                    "origin": {
+                      "id": "X0VxrBAAACQAFuKX",
+                      "url": "https://prismic-io.s3.amazonaws.com/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg",
+                      "width": 800,
+                      "height": 533
+                    },
+                    "width": 1440,
+                    "height": 959,
+                    "url": "https://images.prismic.io/brightworld/d85d5213-48a9-41bc-b495-d37a6845f038_Christmas-college.jpg?auto=compress,format&rect=0,0,800,533&w=1440&h=959",
+                    "edit": {
+                      "background": "#fff",
+                      "zoom": 1.8,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "credits": null,
+                    "alt": null,
+                    "provider": "imgix"
+                  }
+                }
+              },
+              "inputs": [],
+              "header_type": "default",
+              "body": [
+                {
+                  "key": "image_splash$a28a621a-bb1e-4215-b387-fb9bfe4e4849",
+                  "value": {
+                    "repeat": [
+                      {}
+                    ],
+                    "non-repeat": {
+                      "heading": [
+                        {
+                          "type": "heading2",
+                          "content": {
+                            "text": "spend a traditional English Christmas at Cambridge Melchior College",
+                            "spans": []
+                          }
+                        }
+                      ],
+                      "image": {
+                        "origin": {
+                          "id": "X0V0AhAAACQAFuz9",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                          "width": 800,
+                          "height": 800
+                        },
+                        "width": 1440,
+                        "height": 1440,
+                        "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=1440&h=1440",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 1.8,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": "student with christmas hat on",
+                        "provider": "imgix",
+                        "thumbnails": {
+                          "small": {
+                            "origin": {
+                              "id": "X0V0AhAAACQAFuz9",
+                              "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                              "width": 800,
+                              "height": 800
+                            },
+                            "width": 480,
+                            "height": 480,
+                            "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=480&h=480",
+                            "edit": {
+                              "background": "#fff",
+                              "zoom": 0.6,
+                              "crop": {
+                                "x": 0,
+                                "y": 0
+                              }
+                            },
+                            "credits": null,
+                            "alt": null,
+                            "provider": "imgix"
+                          },
+                          "medium": {
+                            "origin": {
+                              "id": "X0V0AhAAACQAFuz9",
+                              "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                              "width": 800,
+                              "height": 800
+                            },
+                            "width": 720,
+                            "height": 720,
+                            "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=720&h=720",
+                            "edit": {
+                              "background": "#fff",
+                              "zoom": 0.9,
+                              "crop": {
+                                "x": 0,
+                                "y": 0
+                              }
+                            },
+                            "credits": null,
+                            "alt": null,
+                            "provider": "imgix"
+                          },
+                          "large": {
+                            "origin": {
+                              "id": "X0V0AhAAACQAFuz9",
+                              "url": "https://prismic-io.s3.amazonaws.com/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg",
+                              "width": 800,
+                              "height": 800
+                            },
+                            "width": 1080,
+                            "height": 1080,
+                            "url": "https://images.prismic.io/brightworld/dc121246-fd41-441a-be1a-a3395bf40483_christmas-student.jpg?auto=compress,format&rect=0,0,800,800&w=1080&h=1080",
+                            "edit": {
+                              "background": "#fff",
+                              "zoom": 1.35,
+                              "crop": {
+                                "x": 0,
+                                "y": 0
+                              }
+                            },
+                            "credits": null,
+                            "alt": null,
+                            "provider": "imgix"
+                          }
+                        }
+                      },
+                      "copy": [
+                        {
+                          "type": "paragraph",
+                          "content": {
+                            "text": "With Covid-19 Travel restrictions and quarantine requirements likely to still be in place in December 2020, it is expected that many of our students will wish to remain in the UK for their Christmas 2020 break when their boarding schools close for the holidays. ",
+                            "spans": []
+                          }
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": {
+                            "text": "With this in mind,  Bright World has, for the first time created a bespoke Christmas programme with our partners, Cambridge Melchior College that spans the entire Christmas school holiday period for students at boarding schools across the UK. ",
+                            "spans": []
+                          }
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": {
+                            "text": "At Cambridge Melchior College (CMC) Bright World students will be able to combine a relaxing break with Christmas activities and selected themed outings (as permitted at the time according to UK Government Covid-19 guidelines). ",
+                            "spans": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "key": "image_splash$615e3b83-0b64-40a1-8adf-6b798818f98c",
+                  "value": {
+                    "repeat": [
+                      {}
+                    ],
+                    "non-repeat": {
+                      "heading": [
+                        {
+                          "type": "heading2",
+                          "content": {
+                            "text": "the perfect location for an English Christmas ",
+                            "spans": []
+                          }
+                        }
+                      ],
+                      "image": {
+                        "origin": {
+                          "id": "X0Vz-xAAACUAFuzc",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                          "width": 800,
+                          "height": 534
+                        },
+                        "width": 1440,
+                        "height": 961,
+                        "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,800,534&w=1440&h=961",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 1.8,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix",
+                        "thumbnails": {
+                          "small": {
+                            "origin": {
+                              "id": "X0Vz-xAAACUAFuzc",
+                              "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                              "width": 800,
+                              "height": 534
+                            },
+                            "width": 480,
+                            "height": 320,
+                            "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,800,533&w=480&h=320",
+                            "edit": {
+                              "background": "#fff",
+                              "zoom": 0.6,
+                              "crop": {
+                                "x": 0,
+                                "y": 0
+                              }
+                            },
+                            "credits": null,
+                            "alt": null,
+                            "provider": "imgix"
+                          },
+                          "medium": {
+                            "origin": {
+                              "id": "X0Vz-xAAACUAFuzc",
+                              "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                              "width": 800,
+                              "height": 534
+                            },
+                            "width": 720,
+                            "height": 481,
+                            "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,799,534&w=720&h=481",
+                            "edit": {
+                              "background": "#fff",
+                              "zoom": 0.900749063670412,
+                              "crop": {
+                                "x": 0,
+                                "y": 0
+                              }
+                            },
+                            "credits": null,
+                            "alt": null,
+                            "provider": "imgix"
+                          },
+                          "large": {
+                            "origin": {
+                              "id": "X0Vz-xAAACUAFuzc",
+                              "url": "https://prismic-io.s3.amazonaws.com/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg",
+                              "width": 800,
+                              "height": 534
+                            },
+                            "width": 1080,
+                            "height": 721,
+                            "url": "https://images.prismic.io/brightworld/049313f1-90a6-45c1-b4c8-e6448d4afa07_Christmas-Joy.jpg?auto=compress,format&rect=0,0,800,534&w=1080&h=721",
+                            "edit": {
+                              "background": "#fff",
+                              "zoom": 1.350187265917603,
+                              "crop": {
+                                "x": 0,
+                                "y": 0
+                              }
+                            },
+                            "credits": null,
+                            "alt": null,
+                            "provider": "imgix"
+                          }
+                        }
+                      },
+                      "copy": [
+                        {
+                          "type": "paragraph",
+                          "content": {
+                            "text": "Cambridge Melchior College is the perfect location for a Christmas celebration. It will have Christmas trees and log fires in each of the relaxation rooms, creating a warm and welcoming atmosphere. ",
+                            "spans": []
+                          }
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": {
+                            "text": "The college boasts en-suite bedrooms ranging from four bedded to larger dormitory style rooms with up to eight beds. There are several large classrooms along with smaller study rooms which can accommodate up to 40 students. ",
+                            "spans": []
+                          }
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": {
+                            "text": "Depending on guidance during December 2020, we will accommodate students in singles or twins, or if allowed we can allow more students to share. Our programme will be updated as guidance is made clearer.",
+                            "spans": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "key": "image_splash$af9c3bb4-15be-43e1-964d-815226577737",
+                  "value": {
+                    "repeat": [
+                      {}
+                    ],
+                    "non-repeat": {
+                      "heading": [
+                        {
+                          "type": "heading2",
+                          "content": {
+                            "text": "Christmas-themed activities and outings ",
+                            "spans": []
+                          }
+                        }
+                      ],
+                      "image": {
+                        "origin": {
+                          "id": "X0V0ARAAACIAFuzz",
+                          "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                          "width": 800,
+                          "height": 548
+                        },
+                        "width": 1440,
+                        "height": 986,
+                        "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=1440&h=986",
+                        "edit": {
+                          "background": "#fff",
+                          "zoom": 1.8,
+                          "crop": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "credits": null,
+                        "alt": null,
+                        "provider": "imgix",
+                        "thumbnails": {
+                          "small": {
+                            "origin": {
+                              "id": "X0V0ARAAACIAFuzz",
+                              "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                              "width": 800,
+                              "height": 548
+                            },
+                            "width": 480,
+                            "height": 329,
+                            "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=480&h=329",
+                            "edit": {
+                              "background": "#fff",
+                              "zoom": 0.6003649635036497,
+                              "crop": {
+                                "x": 0,
+                                "y": 0
+                              }
+                            },
+                            "credits": null,
+                            "alt": null,
+                            "provider": "imgix"
+                          },
+                          "medium": {
+                            "origin": {
+                              "id": "X0V0ARAAACIAFuzz",
+                              "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                              "width": 800,
+                              "height": 548
+                            },
+                            "width": 720,
+                            "height": 493,
+                            "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=720&h=493",
+                            "edit": {
+                              "background": "#fff",
+                              "zoom": 0.9,
+                              "crop": {
+                                "x": 0,
+                                "y": 0
+                              }
+                            },
+                            "credits": null,
+                            "alt": null,
+                            "provider": "imgix"
+                          },
+                          "large": {
+                            "origin": {
+                              "id": "X0V0ARAAACIAFuzz",
+                              "url": "https://prismic-io.s3.amazonaws.com/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg",
+                              "width": 800,
+                              "height": 548
+                            },
+                            "width": 1080,
+                            "height": 740,
+                            "url": "https://images.prismic.io/brightworld/5ddf46a1-2230-4f45-94cc-153021617603_Christmas-bus-in-tree.jpg?auto=compress,format&rect=0,0,800,548&w=1080&h=740",
+                            "edit": {
+                              "background": "#fff",
+                              "zoom": 1.3503649635036497,
+                              "crop": {
+                                "x": 0,
+                                "y": 0
+                              }
+                            },
+                            "credits": null,
+                            "alt": null,
+                            "provider": "imgix"
+                          }
+                        }
+                      },
+                      "copy": [
+                        {
+                          "type": "paragraph",
+                          "content": {
+                            "text": "As part of the Christmas Programme and if excursions are allowed, students will experience ice skating in Cambridge and a trip to Ely Cathedral along with Christmas-based craft activities, carol singing and seasonal food. ",
+                            "spans": []
+                          }
+                        },
+                        {
+                          "type": "paragraph",
+                          "content": {
+                            "text": "Once Christmas-themed evening activities are finished students will be free to relax in their cosy rooms or sit in front of our log fire and reflect upon your day.",
+                            "spans": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "key": "rich_text_area$65365444-d517-498f-b3d8-0bbdb2ab9fed",
+                  "value": {
+                    "repeat": [
+                      {}
+                    ],
+                    "non-repeat": {
+                      "heading": [
+                        {
+                          "type": "heading2",
+                          "content": {
+                            "text": "a sample Christmas week ",
+                            "spans": []
+                          }
+                        }
+                      ],
+                      "content": [
+                        {
+                          "content": {
+                            "spans": [],
+                            "text": ""
+                          },
+                          "type": "image",
+                          "data": {
+                            "origin": {
+                              "id": "X0_T2RAAAJUT9Yv3",
+                              "url": "https://prismic-io.s3.amazonaws.com/brightworld/0262eccc-2a8f-4f91-827d-52b4986f7b59_Screenshot+2020-09-02+at+18.16.50.png",
+                              "width": 2134,
+                              "height": 1234
+                            },
+                            "width": 2134,
+                            "height": 1234,
+                            "url": "https://images.prismic.io/brightworld/0262eccc-2a8f-4f91-827d-52b4986f7b59_Screenshot+2020-09-02+at+18.16.50.png?auto=compress,format",
+                            "edit": {
+                              "background": "transparent",
+                              "zoom": 1,
+                              "crop": {
+                                "x": 0,
+                                "y": 0
+                              }
+                            },
+                            "credits": null,
+                            "alt": null,
+                            "provider": "imgix",
+                            "linkTo": null
+                          },
+                          "label": null,
+                          "direction": null
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "key": "comparison_table$cf1d276d-1938-474f-bf11-9966a570af8e",
+                  "value": {
+                    "repeat": [
+                      {
+                        "heading": [
+                          {
+                            "type": "heading2",
+                            "content": {
+                              "text": "fees ",
+                              "spans": []
+                            }
+                          }
+                        ],
+                        "paragraph": "£85 per night plus £100 per week Christmas supplement",
+                        "list": [
+                          {
+                            "type": "list-item",
+                            "content": {
+                              "text": "Twin or triple bedroom",
+                              "spans": []
+                            }
+                          },
+                          {
+                            "type": "list-item",
+                            "content": {
+                              "text": "Full board - three meals ",
+                              "spans": []
+                            }
+                          },
+                          {
+                            "type": "list-item",
+                            "content": {
+                              "text": "24/7 supervision ",
+                              "spans": []
+                            }
+                          },
+                          {
+                            "type": "list-item",
+                            "content": {
+                              "text": "An afternoon outing offered on most days",
+                              "spans": []
+                            }
+                          },
+                          {
+                            "type": "list-item",
+                            "content": {
+                              "text": "One weekly full day excursion ",
+                              "spans": []
+                            }
+                          },
+                          {
+                            "type": "list-item",
+                            "content": {
+                              "text": "Wi-Fi available throughout the college",
+                              "spans": []
+                            }
+                          },
+                          {
+                            "type": "list-item",
+                            "content": {
+                              "text": "Stockings and presents ",
+                              "spans": []
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "heading": [
+                          {
+                            "type": "heading3",
+                            "content": {
+                              "text": "extra costs ",
+                              "spans": []
+                            }
+                          }
+                        ],
+                        "paragraph": "not included in the programme fee",
+                        "list": [
+                          {
+                            "type": "list-item",
+                            "content": {
+                              "text": "return transfers to and from the centre",
+                              "spans": []
+                            }
+                          },
+                          {
+                            "type": "list-item",
+                            "content": {
+                              "text": "entrance fees ",
+                              "spans": []
+                            }
+                          },
+                          {
+                            "type": "list-item",
+                            "content": {
+                              "text": "small supplement payable for restaurant meals out \n\n\n",
+                              "spans": []
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "heading": [
+                          {
+                            "type": "heading3",
+                            "content": {
+                              "text": "dates 2020/21",
+                              "spans": []
+                            }
+                          }
+                        ],
+                        "paragraph": "Christmas 2020",
+                        "list": [
+                          {
+                            "type": "list-item",
+                            "content": {
+                              "text": "11th December - 11th January",
+                              "spans": []
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "non-repeat": {
+                      "heading": [
+                        {
+                          "type": "heading1",
+                          "content": {
+                            "text": "fees and what is included ",
+                            "spans": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "key": "card_block$d81d2422-e2a6-4850-9129-91d3d6a753a1",
+                  "value": {
+                    "repeat": [
+                      {
+                        "image": {
+                          "origin": {
+                            "id": "XyHJMREAACUAt4U7",
+                            "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                            "width": 1599,
+                            "height": 1063
+                          },
+                          "width": 144,
+                          "height": 96,
+                          "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=144&h=96",
+                          "edit": {
+                            "background": "#fff",
+                            "zoom": 0.09031044214487301,
+                            "crop": {
+                              "x": 0,
+                              "y": 0
+                            }
+                          },
+                          "credits": null,
+                          "alt": "Cambridge Melchior College ",
+                          "provider": "imgix",
+                          "thumbnails": {
+                            "small": {
+                              "origin": {
+                                "id": "XyHJMREAACUAt4U7",
+                                "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                                "width": 1599,
+                                "height": 1063
+                              },
+                              "width": 144,
+                              "height": 96,
+                              "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=144&h=96",
+                              "edit": {
+                                "background": "#fff",
+                                "zoom": 0.09031044214487301,
+                                "crop": {
+                                  "x": 0,
+                                  "y": 0
+                                }
+                              },
+                              "credits": null,
+                              "alt": null,
+                              "provider": "imgix"
+                            },
+                            "medium": {
+                              "origin": {
+                                "id": "XyHJMREAACUAt4U7",
+                                "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                                "width": 1599,
+                                "height": 1063
+                              },
+                              "width": 144,
+                              "height": 96,
+                              "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=144&h=96",
+                              "edit": {
+                                "background": "#fff",
+                                "zoom": 0.09031044214487301,
+                                "crop": {
+                                  "x": 0,
+                                  "y": 0
+                                }
+                              },
+                              "credits": null,
+                              "alt": null,
+                              "provider": "imgix"
+                            },
+                            "large": {
+                              "origin": {
+                                "id": "XyHJMREAACUAt4U7",
+                                "url": "https://prismic-io.s3.amazonaws.com/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg",
+                                "width": 1599,
+                                "height": 1063
+                              },
+                              "width": 240,
+                              "height": 160,
+                              "url": "https://images.prismic.io/brightworld/2fbce560-b4b3-4109-a3d7-ca674dd48b5f_CMCgarden1.jpg?auto=compress,format&rect=0,0,1595,1063&w=240&h=160",
+                              "edit": {
+                                "background": "#fff",
+                                "zoom": 0.15051740357478832,
+                                "crop": {
+                                  "x": 0,
+                                  "y": 0
+                                }
+                              },
+                              "credits": null,
+                              "alt": null,
+                              "provider": "imgix"
+                            }
+                          }
+                        },
+                        "heading": [
+                          {
+                            "type": "heading3",
+                            "content": {
+                              "text": "Gallery of photos ",
+                              "spans": []
+                            }
+                          }
+                        ],
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": {
+                              "text": "see where Relax and Revise takes place ",
+                              "spans": []
+                            }
+                          }
+                        ],
+                        "button_link": {
+                          "id": "XyGvoxEAACYAtxJt",
+                          "wioUrl": "wio://documents/XyGvoxEAACYAtxJt"
+                        }
+                      },
+                      {
+                        "image": {
+                          "origin": {
+                            "id": "XRpCgxAAACQAvHjJ",
+                            "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                            "width": 2000,
+                            "height": 667
+                          },
+                          "width": 144,
+                          "height": 48,
+                          "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=144&h=48",
+                          "edit": {
+                            "background": "#fff",
+                            "zoom": 0.072,
+                            "crop": {
+                              "x": 0,
+                              "y": 0
+                            }
+                          },
+                          "credits": null,
+                          "alt": "popcorn ",
+                          "provider": "imgix",
+                          "thumbnails": {
+                            "small": {
+                              "origin": {
+                                "id": "XRpCgxAAACQAvHjJ",
+                                "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                                "width": 2000,
+                                "height": 667
+                              },
+                              "width": 144,
+                              "height": 48,
+                              "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=144&h=48",
+                              "edit": {
+                                "background": "#fff",
+                                "zoom": 0.072,
+                                "crop": {
+                                  "x": 0,
+                                  "y": 0
+                                }
+                              },
+                              "credits": null,
+                              "alt": null,
+                              "provider": "imgix"
+                            },
+                            "medium": {
+                              "origin": {
+                                "id": "XRpCgxAAACQAvHjJ",
+                                "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                                "width": 2000,
+                                "height": 667
+                              },
+                              "width": 144,
+                              "height": 48,
+                              "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=144&h=48",
+                              "edit": {
+                                "background": "#fff",
+                                "zoom": 0.072,
+                                "crop": {
+                                  "x": 0,
+                                  "y": 0
+                                }
+                              },
+                              "credits": null,
+                              "alt": null,
+                              "provider": "imgix"
+                            },
+                            "large": {
+                              "origin": {
+                                "id": "XRpCgxAAACQAvHjJ",
+                                "url": "https://prismic-io.s3.amazonaws.com/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg",
+                                "width": 2000,
+                                "height": 667
+                              },
+                              "width": 240,
+                              "height": 80,
+                              "url": "https://images.prismic.io/brightworld%2F7a43d212-3211-44de-8ceb-58e154050904_popcorn.jpg?auto=compress,format&rect=0,0,2000,667&w=240&h=80",
+                              "edit": {
+                                "background": "#fff",
+                                "zoom": 0.12,
+                                "crop": {
+                                  "x": 0,
+                                  "y": 0
+                                }
+                              },
+                              "credits": null,
+                              "alt": null,
+                              "provider": "imgix"
+                            }
+                          }
+                        },
+                        "heading": [
+                          {
+                            "type": "heading3",
+                            "content": {
+                              "text": "Relax & Revise video",
+                              "spans": []
+                            }
+                          }
+                        ],
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": {
+                              "text": "hear what some of our students have to say ",
+                              "spans": []
+                            }
+                          }
+                        ],
+                        "button_link": {
+                          "id": "XRoYRhAAACIAu7jU",
+                          "wioUrl": "wio://documents/XRoYRhAAACIAu7jU"
+                        },
+                        "button_text": "View now"
+                      }
+                    ],
+                    "non-repeat": {
+                      "heading": [
+                        {
+                          "type": "heading2",
+                          "content": {
+                            "text": "find out more about the programme",
+                            "spans": []
+                          }
+                        }
+                      ],
+                      "type": "informative",
+                      "font_color": "dark"
+                    }
+                  }
+                },
+                {
+                  "key": "simple_selection$5f82a99c-4f34-4bd0-89ec-557e2ace16be",
+                  "value": {
+                    "repeat": [
+                      {
+                        "heading": "Enquire now",
+                        "link": {
+                          "id": "XQEELRIAAHCfjhJY",
+                          "wioUrl": "wio://documents/XQEELRIAAHCfjhJY"
+                        }
+                      },
+                      {
+                        "heading": "Apply for Relax & Revise and UK Guardianship",
+                        "link": {
+                          "url": "https://www.brightworld.co.uk/guardianship/apply.asp",
+                          "preview": null
+                        }
+                      }
+                    ],
+                    "non-repeat": {
+                      "heading": [
+                        {
+                          "type": "heading1",
+                          "content": {
+                            "text": "enquire or apply now",
+                            "spans": []
+                          }
+                        }
+                      ],
+                      "font_color": "light"
+                    }
+                  }
+                }
+              ],
+              "uid": "relax-and-revise-christmas-uk",
+              "meta_title": "Christmas holiday programme in the UK | Bright World",
+              "meta_description": "Relax & Revise has been designed to match the needs of international students, aged 12+ who want to spend the school Christmas holidays with their school friends at Cambridge Melchior College.",
+              "follow": "Follow",
+              "type": "holiday-courses",
+              "tags": [],
+              "lang": "en-gb",
+              "grouplang": "X0VvbhAAACIAFtik"
+            },
